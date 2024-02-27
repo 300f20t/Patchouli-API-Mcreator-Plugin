@@ -1,0 +1,7 @@
+repositories {
+    maven { url 'https://maven.blamejared.com' }
+}
+
+dependencies {
+    modImplementation "vazkii.patchouli:Patchouli:[1.20.1-84-FABRIC]"
+}
