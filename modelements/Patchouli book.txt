@@ -1,0 +1,17 @@
+Patchouli book
+
+C:\Users\maksi\Downloads\logo.png
+C:\Users\maksi\Downloads\logo.png
+1
+1
+Properties
+0
+4
+book_name
+20
+1
+1
+0
+0
+0
+0
